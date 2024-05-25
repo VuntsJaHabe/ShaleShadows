@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy1",
-    "path":"sprites/spr_enemy1/spr_enemy1.yy",
+    "name":"spr_ghost_right",
+    "path":"sprites/spr_ghost_right/spr_ghost_right.yy",
   },
   "spriteMaskId":null,
   "visible":true,
