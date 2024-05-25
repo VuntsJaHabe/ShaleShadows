@@ -48,6 +48,7 @@
     {"id":{"name":"Boy","path":"sprites/Boy/Boy.yy",},},
     {"id":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
+    {"id":{"name":"spr_ghost_right_new","path":"sprites/spr_ghost_right_new/spr_ghost_right_new.yy",},},
     {"id":{"name":"spr_ghost_right","path":"sprites/spr_ghost_right/spr_ghost_right.yy",},},
     {"id":{"name":"spr_ladder","path":"sprites/spr_ladder/spr_ladder.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
