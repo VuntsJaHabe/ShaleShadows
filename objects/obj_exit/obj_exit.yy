@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"spr_hole",
+    "path":"sprites/spr_hole/spr_hole.yy",
   },
   "spriteMaskId":null,
   "visible":true,
