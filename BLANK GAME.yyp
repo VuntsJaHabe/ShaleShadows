@@ -53,6 +53,7 @@
     {"id":{"name":"spr_ladder","path":"sprites/spr_ladder/spr_ladder.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_wall1","path":"sprites/spr_wall1/spr_wall1.yy",},},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"WonBG","path":"sprites/WonBG/WonBG.yy",},},
     {"id":{"name":"ts_maze","path":"tilesets/ts_maze/ts_maze.yy",},},
