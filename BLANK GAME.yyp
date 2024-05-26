@@ -37,6 +37,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"obj_battery","path":"objects/obj_battery/obj_battery.yy",},},
+    {"id":{"name":"obj_controller_battery","path":"objects/obj_controller_battery/obj_controller_battery.yy",},},
     {"id":{"name":"obj_enemy_2","path":"objects/obj_enemy_2/obj_enemy_2.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},},
