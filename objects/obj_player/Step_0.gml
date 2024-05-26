@@ -1,3 +1,20 @@
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+/// @DnDVersion : 1
+/// @DnDHash : 6F48C4C7
+/// @DnDArgument : "key" "vk_escape"
+var l6F48C4C7_0;
+l6F48C4C7_0 = keyboard_check_pressed(vk_escape);
+if (l6F48C4C7_0)
+{
+	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDVersion : 1
+	/// @DnDHash : 3FDECB07
+	/// @DnDParent : 6F48C4C7
+	/// @DnDArgument : "code" "/// @description Execute Code$(13_10)game_end();"
+	/// @description Execute Code
+	game_end();
+}
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 63A01AF7
